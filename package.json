@@ -1,0 +1,23 @@
+{
+  "name": "nodetodo",
+  "version": "1.0.0",
+  "description": "A to do list for the command line",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizzkats/nodetodo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizzkats/nodetodo/issues"
+  },
+  "homepage": "https://github.com/lizzkats/nodetodo#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "readline": "^1.3.0"
+  }
+}
